@@ -8,7 +8,7 @@ function Asteroids() {
 			startedPlaying: (new Date()).getTime()
 		};
 	
-	var BASEPATH = 'http://kickassapp.com/';
+	var BASEPATH = '';
 	
 	/*
 		Classes
